@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_set</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="png_ico_sm" transform="translate(0.000000, 1.000000)">
+            <rect id="Rectangle" stroke="#51BF88" x="0.5" y="0.5" width="23" height="19.1680672" rx="4"></rect>
+            <circle id="Oval" fill="#51BF88" cx="5.64705882" cy="5.8487395" r="2.01680672"></circle>
+            <path d="M2.83368881,19.5337358 L1.56061546,18.5764202 L7.38887429,12.8773525 L11.9149394,17.4624501 L17.7156669,10.3120751 L23.0060752,18.4729714 C23.0060752,18.4729714 21.9312362,19.5142644 21.3477351,19.5337358 C20.764234,19.5532073 2.83368881,19.5337358 2.83368881,19.5337358 Z" id="Path-3" fill="#51BF88"></path>
+        </g>
+    </g>
+</svg>
